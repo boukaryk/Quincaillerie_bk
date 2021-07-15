@@ -1,0 +1,58 @@
+
+#contact
+{
+width: 80%;
+position: relative;
+top: 20px;
+border:2px black;
+font-family:Agency FB;
+font-size:1.1em;
+
+}
+
+#input1,#input2,#input3{
+position: relative;
+font-size:1.1em;
+font-family: Agency FB;
+}
+textarea{
+position: relative;
+top: 20px;
+width: 30%;
+height:100px;
+}
+textarea:hover{
+font-family: Arial;
+}
+
+#input1:hover,#input2:hover,#input3:hover{  
+ background-color:aliceblue;
+ font-family: Arial;
+
+}
+
+.submit{
+ background-color: orange;
+ color: white;
+ position: relative;
+ font-size: 1.5em;
+ font-family: Agency FB;
+ }
+
+.submit:hover{
+ background-color:white;   
+ color: black;  
+ position: relative;
+ font-size: 1.1em;
+ font-family: Algerian;
+ height:40px;
+ width:100%;
+ }
+.mapouter{height:400px;}
+.gmap_canvas {overflow:hidden;background:none!important;height:400px;}
+.txt{
+	color:black;
+}
+.re{
+	color:green;
+}

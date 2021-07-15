@@ -1,0 +1,62 @@
+body,html{
+                margin: 0;
+                padding: 0;
+                background-color: powderblue;
+            }
+            #secu{
+                position:absolute;
+                top: 30%;
+                height: 300px;
+                width: 40%;
+                left: 30%;
+               
+            }
+            form{
+                background-color:floralwhite;
+                height: 100%;
+                width: 100%;
+                padding-top: 100px;
+                padding-left: 2%;
+                border: 2px solid blue;
+            }
+            #utili{
+                position: absolute;
+                width: 50%;
+                height: 40px;
+               right: 2%;
+                top: 24%;
+                font-size: 1.2em;
+            }
+            #pass{
+                position: absolute;
+                width: 50%;
+                top: 50%;
+                right: 2%;
+                height: 40px;
+                 font-size: 1.2em;
+            }
+            #lab1{
+                position: absolute;
+                top: 26%;
+                left: 2%;
+                font-size: 1.2em;
+            }
+            #lab2{
+                position: absolute;
+                left: 2%;
+                top: 52%;
+                font-size: 1.2em;
+                
+            }
+            #submit{
+                position: absolute;
+                top: 80%;
+                right: 17%;
+                width: 20%;
+                height: 40px;
+                font-size: 1.2em;
+                color: white;
+                background-color: olivedrab;
+                border: none;
+                cursor: pointer;
+            }
